@@ -1,7 +1,7 @@
 {
 	"bookSourceName": "NBA小说",
 	"bookSourceUrl": "http://www.nbaxiaoshuo.com",
-	"ruleSearchUrl": "http://www.nbaxiaoshuo.com/modules/article/search.php?searchtype=keywords&searchkey=searchKey|char=gbk",
+	"ruleSearchUrl": "http://www.nbaxiaoshuo.com/modules/article/search.php?searchtype=articlename&searchkey=searchKey|char=gbk",
 	"httpUserAgent": "",
 	"ruleBookAuthor": "class.booktag@tag.a@text",
 	"ruleBookContent": "class.aaa@textNodes",
