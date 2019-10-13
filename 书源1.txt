@@ -6,7 +6,7 @@
 	"ruleBookAuthor": "class.booktag@tag.a@text",
 	"ruleBookContent": "class.aaa@textNodes",
 	"ruleBookName": "class.booktitle@text",
-	"ruleChapterList": "id.list-chapterAll@tag.dd",
+	"ruleChapterList": "id.list-chapterAll@tag.a",
 	"ruleChapterUrl": "",
 	"ruleChapterName": "text",
 	"ruleContentUrl": "href",
