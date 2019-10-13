@@ -6,7 +6,7 @@
   "httpUserAgent": "",
   "loginUrl": "",
   "ruleBookAuthor": "class.detail_bkauthor@text#著",
-  "ruleBookContent": "class.h5_mainbody.0@textNodes",
+  "ruleBookContent": "class.read_content@html",
   "ruleBookKind": "",
   "ruleBookLastChapter": "",
   "ruleBookName": "class.detail_bkname@tag.a@text",
