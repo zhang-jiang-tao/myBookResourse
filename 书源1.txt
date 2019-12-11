@@ -1,5 +1,5 @@
 {
-  "bookSourceGroup": "",
+  "bookSourceGroup": "taotao",
   "bookSourceName": "NBA小说",
   "bookSourceUrl": "http://www.nbaxiaoshuo.com",
   "enable": true,
