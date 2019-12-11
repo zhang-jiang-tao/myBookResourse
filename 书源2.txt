@@ -1,5 +1,5 @@
 {
-  "bookSourceGroup": "",
+  "bookSourceGroup": "taotao",
   "bookSourceName": "得间小说",
   "bookSourceUrl": "http://www.idejian.com",
   "enable": true,
