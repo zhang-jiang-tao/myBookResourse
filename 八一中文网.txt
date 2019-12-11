@@ -1,6 +1,6 @@
 {
     "bookSourceName":"八一中文网",
-    "bookSourceGroup":"",
+    "bookSourceGroup":"taotao",
     "bookSourceUrl":"https://www.zwdu.com/",
     "loginUrl":"",
     "checkUrl":"",
