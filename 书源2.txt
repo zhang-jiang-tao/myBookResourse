@@ -27,7 +27,7 @@
   "ruleSearchList": "class.rank_ullist",
   "ruleSearchName": "class.rank_bkname@tag.a@text",
   "ruleSearchNoteUrl": "class.rank_bkname@tag.a@href",
-  "ruleSearchUrl": "http://www.idejian.com/search?keyword=searchKey",
+  "ruleSearchUrl": "http://www.idejian.com/search?keyword=searchKey&page=searchPage",
   "serialNumber": 0,
   "weight": 0
 }
